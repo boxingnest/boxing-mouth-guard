@@ -1,0 +1,1 @@
+{"name":"boxing-nest-mouth-guard","version":"1.0.0","scripts":{"start":"npx serve -s -l $PORT ."}}
